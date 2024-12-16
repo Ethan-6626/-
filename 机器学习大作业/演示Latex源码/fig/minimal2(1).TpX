@@ -1,0 +1,45 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <circle x="97.5496" y="69.999" d="1.39603"/>
+%  <text x="94.8174" y="69.3328" t="$7$" tex="$7$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <line x1="74.5807" y1="87.1827" x2="74.5807" y2="87.1827" arr2="h43" lw="0.75"/>
+%  <circle x="85.009" y="69.9689" d="1.39601"/>
+%  <text x="82.5046" y="69.2654" t="$2$" tex="$2$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <text x="122.761" y="69.3033" t="$17$" tex="$17$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="120.052" y="69.9742" d="1.39603"/>
+%  <circle x="109.998" y="70.0462" d="1.39603"/>
+%  <text x="112.642" y="69.3625" t="$3$" tex="$3$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="91.136" y="79.9604" d="1.39603"/>
+%  <text x="87.7006" y="79.2144" t="$14$" tex="$14$" h="2.5" halign="c" rotdeg="8.14222E-14" lw="2.00"/>
+%  <line x1="109.686" y1="70.6269" x2="104.117" y2="79.4012" lw="0.75"/>
+%  <circle x="103.804" y="79.9604" d="1.39603"/>
+%  <text x="100.368" y="79.2144" t="$21$" tex="$21$" h="2.5" halign="c" rotdeg="8.14222E-14" lw="2.00"/>
+%  <line x1="97.9911" y1="70.6245" x2="103.475" y2="79.3397"/>
+%  <line x1="97.2885" y1="70.6963" x2="91.5848" y2="79.6029"/>
+%  <line x1="85.2162" y1="70.7028" x2="90.7208" y2="79.4163"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(155.00, 63.66)(0,0)
+  \put(0,0){\includegraphics{minimal2.pdf}}
+  \put(63.03,7.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$7$}}}}
+  \put(28.13,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$2$}}}}
+  \put(142.24,7.31){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$17$}}}}
+  \put(113.56,7.48){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$3$}}}}
+  \put(42.86,35.40){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$14$}}}}
+  \put(78.77,35.40){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$21$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(155.00, 63.66)(0,0)
+  \put(0,0){\includegraphics{minimal2}}
+  \put(63.03,7.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$7$}}}}
+  \put(28.13,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$2$}}}}
+  \put(142.24,7.31){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$17$}}}}
+  \put(113.56,7.48){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$3$}}}}
+  \put(42.86,35.40){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$14$}}}}
+  \put(78.77,35.40){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$21$}}}}
+  \end{picture}%
+\fi
+\end{figure}

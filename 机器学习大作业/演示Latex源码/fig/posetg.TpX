@@ -1,0 +1,42 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <text x="93.1218" y="67.5237" t="$b$" tex="$b$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="105.837" y="79.1689" d="1.39603"/>
+%  <text x="105.915" y="76.5612" t="$a$" tex="$a$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="92.6553" y="72.3784" d="1.39603"/>
+%  <line x1="74.655" y1="87.1456" x2="74.655" y2="87.1456" arr2="h43" lw="0.75"/>
+%  <text x="107.354" y="66.3215" t="$d$" tex="$d$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="120.038" y="71.542" d="1.39603"/>
+%  <text x="120.243" y="67.0761" t="$c$" tex="$c$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="107.269" y="64.8759" d="1.39603"/>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">92.9763,73.1301 97.6885,77.8346 104.878,79.2976</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">93.2436,71.936 95.8505,68.6973 106.179,64.7682</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">106.589,79.2381 111.046,77.7827 119.274,72.3223</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">107.976,64.8137 113.455,65.944 119.504,70.6998</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">93.4309,72.1703 104.778,70.366 118.888,71.179</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">92.4406,73.1198 90.894,74.9622 85.6849,71.5391 92.3764,71.3028</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">106.658,79.7044 108.707,81.0324 108.877,83.7109 106.127,85.4105 103.218,82.9178 105.393,79.6554</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">106.662,64.3757 104.594,62.8287 108.314,58.5623 107.976,64.0858</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">120.042,72.3354 120.791,74.5227 126.744,73.4313 125.603,69.909 120.646,70.6093</curve>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(159.44, 92.93)(0,0)
+  \put(0,0){\includegraphics{posetg.pdf}}
+  \put(58.02,31.64){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(94.28,57.26){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(98.36,28.23){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \put(134.89,30.37){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(159.44, 92.93)(0,0)
+  \put(0,0){\includegraphics{posetg}}
+  \put(58.02,31.64){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(94.28,57.26){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(98.36,28.23){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \put(134.89,30.37){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \end{picture}%
+\fi
+\end{figure}

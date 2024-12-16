@@ -1,0 +1,51 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <circle x="80.0228" y="80.0127" d="1.39603"/>
+%  <circle x="80.0228" y="74.9546" d="1.39603"/>
+%  <circle x="80.0228" y="69.9331" d="1.39603"/>
+%  <circle x="80.0228" y="65.0216" d="1.39603"/>
+%  <circle x="80.0228" y="60.0001" d="1.39603"/>
+%  <text x="77.2903" y="79.4426" t="$1$" tex="$1$" h="2.5" lw="0.75"/>
+%  <text x="77.2903" y="74.5111" t="$2$" tex="$2$" h="2.5"/>
+%  <text x="77.2903" y="69.5797" t="$3$" tex="$3$" h="2.5"/>
+%  <text x="77.2903" y="64.6482" t="$4$" tex="$4$" h="2.5"/>
+%  <text x="77.2903" y="59.7168" t="$5$" tex="$5$" h="2.5"/>
+%  <circle x="98.5158" y="77.547" d="1.39603"/>
+%  <text x="99.7326" y="76.9769" t="$a$" tex="$a$" h="2.5"/>
+%  <circle x="98.5158" y="68.9169" d="1.39603"/>
+%  <text x="99.7326" y="68.3468" t="$b$" tex="$b$" h="2.5"/>
+%  <circle x="98.5158" y="61.5197" d="1.39603"/>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">80.5727,80.3956 89.3261,80.7655 98.3876,78.2381</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">80.6344,70.1628 88.4014,75.2176 98.0794,78.0532</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">80.6344,75.4642 89.5726,76.2655 98.0794,69.5464</curve>
+%  <ellipse x="79.9563" y="69.8238" dx="10.9725" dy="29.1573" lw="0.75"/>
+%  <ellipse x="98.5417" y="69.7005" dx="9.92453" dy="24.6573" lw="0.75"/>
+%  <line x1="74.655" y1="87.1456" x2="74.655" y2="87.1456" arr2="h43" lw="0.75"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(93.64, 101.77)(0,0)
+  \put(0,0){\includegraphics{gr.pdf}}
+  \put(13.66,74.26){\fontsize{7.11}{8.54}\selectfont $1$}
+  \put(13.66,60.28){\fontsize{7.11}{8.54}\selectfont $2$}
+  \put(13.66,46.30){\fontsize{7.11}{8.54}\selectfont $3$}
+  \put(13.66,32.32){\fontsize{7.11}{8.54}\selectfont $4$}
+  \put(13.66,18.34){\fontsize{7.11}{8.54}\selectfont $5$}
+  \put(77.28,67.27){\fontsize{7.11}{8.54}\selectfont $a$}
+  \put(77.28,42.81){\fontsize{7.11}{8.54}\selectfont $b$}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(93.64, 101.77)(0,0)
+  \put(0,0){\includegraphics{gr}}
+  \put(13.66,74.26){\fontsize{7.11}{8.54}\selectfont $1$}
+  \put(13.66,60.28){\fontsize{7.11}{8.54}\selectfont $2$}
+  \put(13.66,46.30){\fontsize{7.11}{8.54}\selectfont $3$}
+  \put(13.66,32.32){\fontsize{7.11}{8.54}\selectfont $4$}
+  \put(13.66,18.34){\fontsize{7.11}{8.54}\selectfont $5$}
+  \put(77.28,67.27){\fontsize{7.11}{8.54}\selectfont $a$}
+  \put(77.28,42.81){\fontsize{7.11}{8.54}\selectfont $b$}
+  \end{picture}%
+\fi
+\end{figure}

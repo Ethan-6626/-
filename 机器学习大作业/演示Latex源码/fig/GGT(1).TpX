@@ -1,0 +1,42 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <text x="92.2506" y="69.3172" t="$a$" tex="$a$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="107.234" y="72.3784" d="1.39603"/>
+%  <text x="107.401" y="68.9742" t="$b$" tex="$b$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="92.6553" y="72.3784" d="1.39603"/>
+%  <line x1="74.655" y1="87.1456" x2="74.655" y2="87.1456" arr2="h43" lw="0.75"/>
+%  <text x="120.81" y="69.1326" t="$c$" tex="$c$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="135.286" y="72.3784" d="1.39603"/>
+%  <text x="135.453" y="68.9742" t="$d$" tex="$d$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="120.707" y="72.3784" d="1.39603"/>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">134.501,71.4788 133.287,70.1502 128.52,68.7525 126.535,69.0294 122.844,70.5983 121.229,71.8442</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">107.65,71.8998 110.832,70.6377 114.838,70.2535 119.699,71.8619</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">93.1623,71.8998 97.9914,70.6377 100.9,70.473 106.463,71.6562</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">92.8303,71.6457 101.171,67.53 107.263,66.3227 120.166,71.425</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">107.924,72.6681 119.777,75.357 134.34,72.967</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">106.552,72.7229 99.9669,73.601 93.7721,72.8715</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">135.02,73.3823 116.924,80.5702 92.888,73.1071</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">107.595,72.9424 109.68,74.5338 107.211,78.1008 106.539,73.2456</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">92.0099,72.0096 87.7845,71.79 86.687,74.5887 92.5445,73.6188</curve>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(188.99, 70.40)(0,0)
+  \put(0,0){\includegraphics{GGT.pdf}}
+  \put(55.55,14.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(98.49,13.22){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(136.50,13.67){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(178.01,13.22){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(188.99, 70.40)(0,0)
+  \put(0,0){\includegraphics{GGT}}
+  \put(55.55,14.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(98.49,13.22){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(136.50,13.67){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(178.01,13.22){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \end{picture}%
+\fi
+\end{figure}

@@ -1,0 +1,37 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <text x="92.2506" y="69.3172" t="$a$" tex="$a$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="107.234" y="72.3784" d="1.39603"/>
+%  <text x="107.401" y="68.9742" t="$b$" tex="$b$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="92.6553" y="72.3784" d="1.39603"/>
+%  <line x1="74.655" y1="87.1456" x2="74.655" y2="87.1456" arr2="h43" lw="0.75"/>
+%  <text x="120.81" y="69.1326" t="$c$" tex="$c$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="135.286" y="72.3784" d="1.39603"/>
+%  <text x="135.453" y="68.9742" t="$d$" tex="$d$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="120.707" y="72.3784" d="1.39603"/>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">93.1004,71.9118 95.0783,69.4734 99.3697,68.2736 101.908,68.5505 104.123,69.2427 105.507,70.2579 106.661,71.5499</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">107.968,72.1363 109.314,70.2287 111.054,69.4433 114.139,68.9945 116.888,69.2189 119.132,70.1165 120.089,71.5038</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">92.7901,73.1403 95.4762,77.262 105.711,81.4301 134.378,73.1959</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">107.054,73.1033 105.016,74.5853 100.617,76.0672 93.5774,73.057</curve>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(188.99, 64.83)(0,0)
+  \put(0,0){\includegraphics{powerr3.pdf}}
+  \put(55.55,8.63){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(98.49,7.66){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(136.50,8.10){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(178.01,7.66){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(188.99, 64.83)(0,0)
+  \put(0,0){\includegraphics{powerr3}}
+  \put(55.55,8.63){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(98.49,7.66){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(136.50,8.10){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(178.01,7.66){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \end{picture}%
+\fi
+\end{figure}

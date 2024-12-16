@@ -1,0 +1,48 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <rect x="90.2331" y="73.4689" w="33.8703" h="16.8428"/>
+%  <curve lw="0.75">104.403,90.3586 103.569,86.3433 98.8621,83.1593 90.2792,81.4058</curve>
+%  <curve lw="0.75">96.9872,82.5618 99.0006,80.1137 98.9083,73.4689</curve>
+%  <curve lw="0.75">102.185,84.959 104.584,83.6208 117.458,90.1733</curve>
+%  <curve lw="0.75">115.059,86.0664 117.089,82.2826 124.103,79.2831</curve>
+%  <curve lw="0.75">118.566,80.9444 111.137,78.591 105.065,73.4832</curve>
+%  <curve lw="0.75">99.1265,79.9543 102.818,79.6313 109.115,77.3495</curve>
+%  <curve lw="0.75">107.327,83.0183 108.434,81.1264 107.188,78.3577</curve>
+%  <text x="95.6555" y="85.9063" t="$A_1$" tex="$A_1$" h="2" halign="c" lw="0.75"/>
+%  <text x="109.327" y="86.461" t="$A_2$" tex="$A_2$" h="2" halign="c" lw="0.75"/>
+%  <text x="120.062" y="84.8948" t="$A_3$" tex="$A_3$" h="2" halign="c" lw="0.75"/>
+%  <text x="112.395" y="81.0445" t="$A_5$" tex="$A_5$" h="2" halign="c" lw="0.75"/>
+%  <text x="103.323" y="81.2402" t="$A_4$" tex="$A_4$" h="2" halign="c" lw="0.75"/>
+%  <text x="95.1334" y="76.0848" t="$A_6$" tex="$A_6$" h="2" halign="c" lw="0.75"/>
+%  <text x="103.65" y="75.7258" t="$A_7$" tex="$A_7$" h="2" halign="c" lw="0.75"/>
+%  <text x="117.615" y="75.889" t="$A_8$" tex="$A_8$" h="2" halign="c" lw="0.75"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(107.35, 59.21)(0,0)
+  \put(0,0){\includegraphics{partition.pdf}}
+  \put(21.04,40.92){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_1$}}
+  \put(59.79,42.50){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_2$}}
+  \put(90.22,38.06){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_3$}}
+  \put(68.49,27.14){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_5$}}
+  \put(42.77,27.70){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_4$}}
+  \put(19.56,13.08){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_6$}}
+  \put(43.70,12.07){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_7$}}
+  \put(83.29,12.53){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_8$}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(107.35, 59.21)(0,0)
+  \put(0,0){\includegraphics{partition}}
+  \put(21.04,40.92){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_1$}}
+  \put(59.79,42.50){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_2$}}
+  \put(90.22,38.06){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_3$}}
+  \put(68.49,27.14){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_5$}}
+  \put(42.77,27.70){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_4$}}
+  \put(19.56,13.08){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_6$}}
+  \put(43.70,12.07){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_7$}}
+  \put(83.29,12.53){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$A_8$}}
+  \end{picture}%
+\fi
+\end{figure}

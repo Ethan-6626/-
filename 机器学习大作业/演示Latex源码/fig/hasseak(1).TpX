@@ -1,0 +1,74 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <circle x="99.9878" y="69.999" d="1.39603"/>
+%  <text x="97.2556" y="69.3328" t="$c$" tex="$c$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <line x1="74.5807" y1="87.1827" x2="74.5807" y2="87.1827" arr2="h43" lw="0.75"/>
+%  <circle x="90.0407" y="69.9689" d="1.39601"/>
+%  <text x="87.5363" y="69.2654" t="$b$" tex="$b$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <text x="122.664" y="69.4138" t="$e$" tex="$e$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="119.955" y="69.9742" d="1.39603"/>
+%  <circle x="109.989" y="70.0462" d="1.39603"/>
+%  <text x="112.685" y="69.2923" t="$d$" tex="$d$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="94.97" y="79.9239" d="1.39603"/>
+%  <text x="92.2378" y="79.0052" t="$f$" tex="$f$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="105.001" y="59.8406" d="1.39601"/>
+%  <text x="102.496" y="59.1371" t="$a$" tex="$a$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="114.996" y="80.0444" d="1.39603"/>
+%  <text x="117.918" y="79.1257" t="$g$" tex="$g$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="94.97" y="89.9829" d="1.39603"/>
+%  <text x="92.2378" y="89.0642" t="$h$" tex="$h$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="114.996" y="89.9829" d="1.39603"/>
+%  <text x="117.918" y="89.0642" t="$i$" tex="$i$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="94.97" y="100.062" d="1.39603"/>
+%  <text x="92.2378" y="99.1431" t="$j$" tex="$j$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="114.996" y="100.062" d="1.39603"/>
+%  <text x="117.918" y="99.1431" t="$k$" tex="$k$" h="3" halign="c" rotdeg="8.14222E-14"/>
+%  <line x1="105.43" y1="60.388" x2="109.688" y2="69.4108"/>
+%  <line x1="104.568" y1="60.4893" x2="100.259" y2="69.5122"/>
+%  <line x1="90.3878" y1="70.4914" x2="94.6458" y2="79.5143"/>
+%  <line x1="110.375" y1="70.5794" x2="114.633" y2="79.6023"/>
+%  <line x1="99.7918" y1="70.4829" x2="95.4831" y2="79.5058"/>
+%  <line x1="119.69" y1="70.5937" x2="115.382" y2="79.6166"/>
+%  <line x1="115.012" y1="80.746" x2="115.003" y2="89.2326"/>
+%  <line x1="115.012" y1="90.7651" x2="115.003" y2="99.2517"/>
+%  <line x1="95.0118" y1="80.6953" x2="95.0028" y2="89.1819"/>
+%  <line x1="95.0118" y1="90.7651" x2="95.0028" y2="99.2517"/>
+%  <line x1="95.4545" y1="89.6799" x2="114.362" y2="80.5555"/>
+%  <line x1="95.4545" y1="80.4035" x2="114.362" y2="89.6292"/>
+%  <line x1="95.4936" y1="90.41" x2="114.401" y2="99.6357"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(153.78, 133.25)(0,0)
+  \put(0,0){\includegraphics{hasseak.pdf}}
+  \put(69.94,36.41){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(42.39,36.22){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(141.97,36.64){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$e$}}}}
+  \put(113.68,36.29){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \put(55.72,63.83){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$f$}}}}
+  \put(84.80,7.51){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(128.51,64.17){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$g$}}}}
+  \put(55.72,92.34){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$h$}}}}
+  \put(128.51,92.34){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$i$}}}}
+  \put(55.72,120.91){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$j$}}}}
+  \put(128.51,120.91){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$k$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(153.78, 133.25)(0,0)
+  \put(0,0){\includegraphics{hasseak}}
+  \put(69.94,36.41){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(42.39,36.22){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(141.97,36.64){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$e$}}}}
+  \put(113.68,36.29){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \put(55.72,63.83){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$f$}}}}
+  \put(84.80,7.51){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(128.51,64.17){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$g$}}}}
+  \put(55.72,92.34){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$h$}}}}
+  \put(128.51,92.34){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$i$}}}}
+  \put(55.72,120.91){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$j$}}}}
+  \put(128.51,120.91){\rotatebox{0.00}{\fontsize{8.54}{10.24}\selectfont \smash{\makebox[0pt]{$k$}}}}
+  \end{picture}%
+\fi
+\end{figure}

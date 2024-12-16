@@ -1,0 +1,38 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <text x="110.279" y="57.8805" t="$b$" tex="$b$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="98.3111" y="74.9307" d="1.39603"/>
+%  <text x="96.1568" y="74.2622" t="$a$" tex="$a$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="108.33" y="59.9453" d="1.39603"/>
+%  <line x1="74.655" y1="87.1456" x2="74.655" y2="87.1456" arr2="h43" lw="0.75"/>
+%  <text x="120.139" y="74.2641" t="$d$" tex="$d$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="108.339" y="89.9003" d="1.39603"/>
+%  <text x="110.148" y="90.7997" t="$c$" tex="$c$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="118.329" y="74.935" d="1.39603"/>
+%  <line x1="107.744" y1="60.4827" x2="98.645" y2="74.2651"/>
+%  <line x1="108.928" y1="60.3211" x2="108.928" y2="60.3211"/>
+%  <line x1="108.874" y1="60.4288" x2="117.865" y2="74.3728"/>
+%  <line x1="98.4835" y1="75.6649" x2="107.744" y2="89.3935"/>
+%  <line x1="118.027" y1="75.5034" x2="108.928" y2="89.555"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(145.58, 111.74)(0,0)
+  \put(0,0){\includegraphics{posets3.pdf}}
+  \put(106.65,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(66.62,53.64){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(134.60,53.64){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \put(106.28,100.51){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(145.58, 111.74)(0,0)
+  \put(0,0){\includegraphics{posets3}}
+  \put(106.65,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(66.62,53.64){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(134.60,53.64){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \put(106.28,100.51){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \end{picture}%
+\fi
+\end{figure}

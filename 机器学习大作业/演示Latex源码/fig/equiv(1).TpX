@@ -1,0 +1,71 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <text x="94.8991" y="70.1008" t="$1$" tex="$1$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="122.073" y="59.5964" d="1.39603"/>
+%  <text x="85.8897" y="56.7562" t="$7$" tex="$7$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="92.6553" y="72.3784" d="1.39603"/>
+%  <line x1="74.655" y1="87.1456" x2="74.655" y2="87.1456" arr2="h43" lw="0.75"/>
+%  <text x="100.675" y="56.9146" t="$4$" tex="$4$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="101.565" y="59.347" d="1.39603"/>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">85.4569,60.027 93.0014,60.9622 100.563,59.9731</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">86.1889,59.3324 93.0014,58.4058 100.795,59.2788</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">84.9649,60.2539 86.7662,67.4468 91.494,72.1057</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">85.6724,60.5736 89.6967,66.0127 92.3155,71.8737</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">93.3866,72.6146 100.047,67.3844 101.828,60.5045</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">93.2974,71.6303 96.493,64.7033 101.303,60.0606</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">93.2449,72.8828 95.0844,74.584 92.2338,77.3945 90.3831,73.9863 91.6786,72.9142</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">84.3969,60.027 82.2769,60.8375 80.6558,58.7176 82.8381,56.2859 84.8886,58.4297</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">102.255,59.6529 103.252,60.7128 106.682,59.5905 104.375,55.9118 101.998,58.3221</curve>
+%  <text x="163.483" y="70.1008" t="$2$" tex="$2$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="153.621" y="59.5964" d="1.39603"/>
+%  <text x="154.474" y="56.7562" t="$5$" tex="$5$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="161.239" y="72.3784" d="1.39603"/>
+%  <text x="169.259" y="56.9146" t="$8$" tex="$8$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="170.149" y="59.347" d="1.39603"/>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">154.041,60.027 161.585,60.9622 169.147,59.9731</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">154.773,59.3324 161.585,58.4058 169.379,59.2788</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">153.549,60.2539 155.35,67.4468 160.078,72.1057</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">154.256,60.5736 158.281,66.0127 160.899,71.8737</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">161.97,72.6146 168.631,67.3844 170.412,60.5045</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">161.881,71.6303 165.077,64.7033 169.887,60.0606</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">161.829,72.8828 163.668,74.584 160.818,77.3945 158.967,73.9863 160.262,72.9142</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">152.981,60.027 150.861,60.8375 149.24,58.7176 151.422,56.2859 153.473,58.4297</curve>
+%  <curve arr2="h44" arrs="0.5" lw="0.75">170.839,59.6529 171.836,60.7128 175.266,59.5905 172.959,55.9118 170.582,58.3221</curve>
+%  <circle x="134.982" y="72.3784" d="1.39603"/>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">122.206,60.808 125.312,67.863 134.403,72.6088</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">134.816,71.2465 131.373,64.1464 122.739,59.9152</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">134.375,73.2968 134.155,74.6415 136.205,76.339 138.939,73.5393 135.764,72.0622</curve>
+%  <curve arr1="h44" arrs="0.5" lw="0.75">121.26,60.166 118.897,59.8014 119.161,56.3623 122.644,59.2282</curve>
+%  <text x="124.403" y="57.6561" t="$6$" tex="$6$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <text x="132.931" y="72.746" t="$3$" tex="$3$" h="2.5" halign="c" rotdeg="3.18772E-6"/>
+%  <circle x="85.1085" y="59.5964" d="1.39603"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(297.24, 99.88)(0,0)
+  \put(0,0){\includegraphics{equiv.pdf}}
+  \put(63.05,45.89){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$1$}}}}
+  \put(37.52,8.06){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$7$}}}}
+  \put(79.43,8.51){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$4$}}}}
+  \put(257.47,45.89){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$2$}}}}
+  \put(231.93,8.06){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$5$}}}}
+  \put(273.84,8.51){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$8$}}}}
+  \put(146.69,10.61){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$6$}}}}
+  \put(170.86,53.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$3$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(297.24, 99.88)(0,0)
+  \put(0,0){\includegraphics{equiv}}
+  \put(63.05,45.89){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$1$}}}}
+  \put(37.52,8.06){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$7$}}}}
+  \put(79.43,8.51){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$4$}}}}
+  \put(257.47,45.89){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$2$}}}}
+  \put(231.93,8.06){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$5$}}}}
+  \put(273.84,8.51){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$8$}}}}
+  \put(146.69,10.61){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$6$}}}}
+  \put(170.86,53.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$3$}}}}
+  \end{picture}%
+\fi
+\end{figure}

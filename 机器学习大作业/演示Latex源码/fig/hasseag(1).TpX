@@ -1,0 +1,57 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <text x="110.561" y="95.1059" t="$f$" tex="$f$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="99.9878" y="69.999" d="1.39603"/>
+%  <text x="97.2556" y="69.3328" t="$b$" tex="$b$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="107.796" y="94.9269" d="1.39603"/>
+%  <line x1="74.5807" y1="87.1827" x2="74.5807" y2="87.1827" arr2="h43" lw="0.75"/>
+%  <line x1="108.394" y1="95.3027" x2="108.394" y2="95.3027"/>
+%  <circle x="90.0407" y="69.9689" d="1.39601"/>
+%  <text x="87.5363" y="69.2654" t="$a$" tex="$a$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <text x="127.593" y="69.3033" t="$g$" tex="$g$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="124.884" y="69.9742" d="1.39603"/>
+%  <circle x="115.22" y="70.0462" d="1.39603"/>
+%  <text x="117.916" y="68.6842" t="$c$" tex="$c$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="99.9878" y="85.1426" d="1.39603"/>
+%  <circle x="115.22" y="85.1898" d="1.39603"/>
+%  <text x="117.916" y="83.8278" t="$e$" tex="$e$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="124.92" y="85.1898" d="1.39603"/>
+%  <text x="127.616" y="83.8278" t="$h$" tex="$h$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <line x1="99.9114" y1="70.7808" x2="99.9114" y2="84.5114"/>
+%  <line x1="115.271" y1="70.7808" x2="115.271" y2="84.5114"/>
+%  <line x1="100.532" y1="84.8314" x2="114.573" y2="70.5578"/>
+%  <line x1="100.493" y1="70.519" x2="114.767" y2="84.7538"/>
+%  <line x1="100.26" y1="85.7816" x2="107.242" y2="94.4311"/>
+%  <line x1="108.41" y1="94.4327" x2="114.872" y2="85.7496"/>
+%  <line x1="124.906" y1="70.7808" x2="124.906" y2="84.5114"/>
+%  <text x="97.2556" y="84.2239" t="$d$" tex="$d$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(166.99, 93.32)(0,0)
+  \put(0,0){\includegraphics{hasseag.pdf}}
+  \put(107.66,82.10){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$f$}}}}
+  \put(69.94,9.04){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(42.39,8.85){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(155.94,8.95){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$g$}}}}
+  \put(128.51,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(128.51,50.13){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$e$}}}}
+  \put(156.00,50.13){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$h$}}}}
+  \put(69.94,51.25){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(166.99, 93.32)(0,0)
+  \put(0,0){\includegraphics{hasseag}}
+  \put(107.66,82.10){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$f$}}}}
+  \put(69.94,9.04){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$b$}}}}
+  \put(42.39,8.85){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$a$}}}}
+  \put(155.94,8.95){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$g$}}}}
+  \put(128.51,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$c$}}}}
+  \put(128.51,50.13){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$e$}}}}
+  \put(156.00,50.13){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$h$}}}}
+  \put(69.94,51.25){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$d$}}}}
+  \end{picture}%
+\fi
+\end{figure}

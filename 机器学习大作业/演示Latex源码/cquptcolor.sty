@@ -1,0 +1,349 @@
+%--------------------------------------------------------
+% NOTE: 1) This is an UNOFFICIAL LaTeX beamer style for
+%           Chongqing University of Posts and Telecom. (CQUPT).
+%       2) These files are based on Edward Hartley's work
+%          <http://www-control.eng.cam.ac.uk/Main/EdwardHartley>
+%       3) Complaints or suggestions are always welcome at ZKLI @ CQUPT.EDU.CN。
+%
+%--------------------------------------------------------
+\mode<presentation>
+% Open the PDF file in fullscreen by default
+\hypersetup{pdfpagemode=FullScreen}
+%--------------------------------------------------------
+% Require tikz to do some text positioning
+%--------------------------------------------------------
+\usepackage{tikz}
+%--------------------------------------------------------
+% Require tikz to change the environment of theorems
+%--------------------------------------------------------
+\usepackage{tcolorbox}
+\tcbuselibrary{skins,theorems,xparse,breakable}
+%----------Chinese date---------------------------------
+\usepackage{datetime}
+\newcommand{\chtoday}{\number\year 年 \number\month 月 \number\day 日}
+%--------------------------------------------------------
+% Use Helvetica rather than Computer Modern Sans Serif
+% Comment this out if you prefer Computer Modern
+%\usepackage{times}
+%--------------------------------------------------------
+%\usepackage{helvet}
+
+\usepackage{comment}
+
+%--------------------------------------------------------
+% If you wish to use Arial, and have the winfonts package
+% correctly installed uncomment the following to make the
+% default sans serif font Arial
+%--------------------------------------------------------
+%\usepackage{winfonts}
+%\usepackage[T1]{fontenc}
+%\renewcommand{\sfdefault}{cmr}
+%--------------------------------------------------------
+
+%--------------------------------------------------------
+% Get rid of the navigation bar
+%--------------------------------------------------------
+\beamertemplatenavigationsymbolsempty
+
+%--------------------------------------------------------
+% Define how the page counter will be displayed on slides
+%--------------------------------------------------------
+\newcommand{\footlinepagecounter}{\insertframenumber{}/\inserttotalframenumber}
+%--------------------------------------------------------
+
+% Layout scheme for outer elements: split(give ALL section & subsection) or infolines(give CURRENT section & subsection)
+%\useoutertheme{infolines}
+
+% Color scheme for outer elements: use background colors
+\usecolortheme{wolverine}
+
+% Layout scheme for inner elements: rounded elements
+\useinnertheme[shadow]{rounded}
+%\useinnertheme[shadow]{rectangles}
+
+% Color scheme for inner elements: use foreground colors
+%\usecolortheme{orchid}
+
+% Itemize items: default (triangle), circle, square, ball
+\setbeamertemplate{itemize items}[default]
+
+% Enumerate items: default, circle, square, ball
+\setbeamertemplate{enumerate items}[circle]
+
+% Outline: default, sections numbered, subsections numbered, circle, square, ball, ball unnumbered
+% symbol in outline
+\setbeamertemplate{sections/subsections in toc}[square]
+
+% list the outline at the beginning of each section
+%\AtBeginSection[] % Do nothing for \subsection*
+%{
+%  \begin{frame}<beamer>
+%    \frametitle{目录}
+%    \tableofcontents[currentsection]
+%  \end{frame}
+%}
+
+\setbeamertemplate{caption}[numbered]
+
+\setbeamertemplate{theorems}[numbered]
+
+
+\renewcommand{\figurename}{图}
+\renewcommand{\tablename}{表}
+% General blocks:
+
+% Background
+\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{11112222.pdf}}
+
+
+%--------------------------------------------------------
+% Set up the scheme for use
+% with beamer
+%--------------------------------------------------------
+
+% Define the theme colour of CQUPT
+\definecolor{cquptgreen}{RGB}{0,110,83}
+\definecolor{cquptyellow}{RGB}{255,225,127}
+\definecolor{cquptdarkgreen}{RGB}{0,82,62}
+\definecolor{cquptlightyellow}{RGB}{247,235,200}
+\definecolor{cquptgolden}{RGB}{247,205,79}
+\definecolor{cquptred}{RGB}{222,22,34}
+\definecolor{cquptpurple}{RGB}{172,31,76}
+
+
+\def\cquptgreen{\textcolor{cquptgreen}}
+\def\cquptyellow{\textcolor{cquptyellow}}
+\def\cquptdarkgreen{\textcolor{cquptdarkgreen}}
+\def\cquptgolden{\textcolor{cquptgolden}}
+\def\cquptred{\textcolor{cquptred}}
+\def\cquptpurple{\textcolor{cquptpurple}}
+
+
+% Set element colours
+\setbeamercolor{title}{bg=cquptyellow, fg=cquptgreen}
+\setbeamercolor{subtitle}{bg=white, fg=cquptgreen}
+\setbeamercolor{titlepageheader}{bg=white,fg=black}
+\setbeamercolor{titlepagefooter}{bg=white,fg=black}
+\setbeamercolor{frametitle}{bg=, fg=cquptgreen}
+\setbeamercolor{block title}{bg=cquptgreen,fg=white}
+\setbeamercolor{block body}{bg=cquptgreen!10!white,fg=black}
+
+
+\setbeamercolor{structure}{bg=, fg=cquptgreen}
+\setbeamercolor{alerted text}{fg=cquptred}
+
+\setbeamercolor{author in head/foot}{fg=black, bg=cquptyellow}
+\setbeamercolor{title in head/foot}{fg=white, bg=cquptgreen}
+\setbeamercolor{date in head/foot}{fg=white, bg=cquptdarkgreen}
+\setbeamercolor{section in head/foot}{fg=black, bg=cquptyellow}
+\setbeamercolor{subsection in head/foot}{fg=white, bg=cquptgreen}
+
+
+%--------------------------------------------------------
+% Set font sizes
+%--------------------------------------------------------
+
+\setbeamerfont{title}{size=\LARGE,series=\bfseries}
+\setbeamerfont{subtitle}{size=\normalsize,series=\bfseries}
+\setbeamerfont{author}{size=\large}
+\setbeamerfont{institute}{size=\small}
+\setbeamerfont{date}{size=\small}
+
+\setbeamerfont{frametitle}{size=\large,series=\bfseries}
+\setbeamerfont{block title}{size=\normalsize,series=\bfseries}
+\setbeamerfont{structure}{size=\normalsize,series=\bfseries}
+\setbeamerfont{alerted text}{size=\normalsize,series=\bfseries}
+
+\setbeamertemplate{itemize item}{\scriptsize\raise1.25pt\hbox{\textbullet}}
+\setbeamertemplate{itemize subitem}{\scriptsize\raise1.25pt\hbox{\textbullet}}
+\setbeamertemplate{itemize subsubitem}{\scriptsize\raise1.25pt\hbox{\textbullet}}
+
+
+%--------------------------------------------------------
+% Set up some lengths
+%--------------------------------------------------------
+% A paper width for the footline
+%\newlength{\halfpaperwidth}
+%
+%% The left margin
+%\newlength{\headingleftmargin}
+%% Paper width minus margins
+%\newlength{\headingwidthminusmargins}
+%% Height of the heading block
+%\newlength{\headingheight}
+%% Height of the footer block
+%\newlength{\footerheight}
+%
+%% The height for the titlepageheader in the title page
+%\newlength{\titlepageheaderheight}
+%% The height for the footer in the title page
+%\newlength{\titlepagefooterheight}
+%% The height for the main title block
+%\newlength{\titlepagemaintitleblockheight}
+%% The height for the subtitle block
+%\newlength{\titlepagesubtitleblockheight}
+%% The height for the name and institute
+%\newlength{\titlepagenameinstituteheight}
+%% The height for the location and date
+%\newlength{\titlepagelocationdateblockheight}
+%
+%% The lengths for spacing in title page
+%\newlength{\titlepagespace}
+
+
+% The length for the light thin bar
+
+
+%\setlength{\headingleftmargin}{0.01\paperwidth}
+%\setlength{\headingwidthminusmargins}{\paperwidth}
+%\addtolength{\headingwidthminusmargins}{-\headingleftmargin}
+%\setlength{\headingheight}{0.1\paperheight}
+%\setlength{\footerheight}{0.1\paperheight}
+%
+%\setlength{\titlepageheaderheight}{0.176\paperheight}
+%\setlength{\titlepagefooterheight}{0.176\paperheight}
+%\setlength{\titlepagemaintitleblockheight}{0.196\paperheight}
+%\setlength{\titlepagesubtitleblockheight}{0.1\paperheight}
+%\setlength{\titlepagenameinstituteheight}{0.176\paperheight}
+%\setlength{\titlepagelocationdateblockheight}{0.176\paperheight}
+
+%\setlength{\titlepagespace}{5pt}
+
+
+%-----------------------------------------------------
+% Define title page
+%-----------------------------------------------------
+
+\setbeamertemplate{title page}
+{
+
+\nointerlineskip
+\begin{beamercolorbox}[right, sep=-6mm,wd=\paperwidth,ht=0.176\paperheight,rightskip=0.025\paperwidth]{structure}
+\includegraphics[width=0.45\paperwidth]{cqupt70-logo.png}
+\end{beamercolorbox}
+
+\nointerlineskip
+\vskip 5mm
+
+\begin{tcolorbox}[enhanced,frame hidden, shadow={1mm}{-2mm}{0mm}{black!50!white},%
+top=2ex,bottom=2ex, sharp corners=all, interior style={left color=cquptyellow,right color=cquptdarkgreen},
+colupper=white]
+\begin{center}
+  \usebeamerfont{title}\inserttitle
+\end{center}
+\end{tcolorbox}
+
+\nointerlineskip
+\begin{beamercolorbox}[right,sep=3mm, wd=\paperwidth,ht=0.1\paperheight,rightskip=0.05\paperwidth]{subtitle}
+  \usebeamerfont{subtitle}\insertsubtitle
+\end{beamercolorbox}%
+
+\nointerlineskip%
+\begin{beamercolorbox}[center,sep=5mm,wd=\paperwidth,ht=0.176\paperheight]{}
+  \usebeamerfont{author}\insertauthor
+  \vskip 5pt
+  \usebeamerfont{institute}\insertinstitute
+\end{beamercolorbox}
+
+\nointerlineskip
+\begin{beamercolorbox}[center,sep=3mm,wd=\paperwidth,ht=0.176\paperheight]{}
+      \usebeamerfont{date}\insertdate
+\end{beamercolorbox}
+
+
+\begin{beamercolorbox}[wd=\paperwidth,ht=0.176\paperheight]{}
+\end{beamercolorbox}
+}
+
+% Headline: SECTION | SUBSECTION
+\defbeamertemplate*{headline}{ru theme}
+{%
+  \leavevmode%
+  \begin{beamercolorbox}[wd=0.5\paperwidth,ht=2.25ex,dp=1ex,right]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertsection\hspace*{1em}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=0.5\paperwidth,ht=2.25ex,dp=1ex,left]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\hspace*{1em}\insertsubsection
+  \end{beamercolorbox}%
+}
+
+
+% Footline: AUTHOR | TITLE | DATE FRAMENUMBER
+\defbeamertemplate*{footline}{ru theme}
+{%
+  \leavevmode%
+  \begin{beamercolorbox}[wd=0.275\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor\hspace*{1em}(\insertshortinstitute)
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=0.45\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=0.275\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+    \usebeamerfont{date in head/foot}
+    \insertshortdate{}\hspace*{2em}\footlinepagecounter\hspace*{2em}
+  \end{beamercolorbox}
+}
+
+%------------------------------------------------------------------
+% Define the box environment of theorems by using TCOLORBOX package
+%------------------------------------------------------------------
+
+
+\tcbset{textmarker/.style={
+skin=enhanced jigsaw,breakable,parbox=false,
+interior hidden,sharp corners=all,
+leftrule=1mm,toprule=1mm, rightrule=1mm, bottomrule=1mm,
+boxsep=0mm, top=-1ex,bottom=0ex, left=2ex, right=2ex,}}
+
+\newcommand\thmbox[1]
+{
+\tcolorboxenvironment{#1}
+{textmarker,
+frame style={top color=cquptgreen, bottom color=cquptyellow}}
+}
+
+%\pgfdeclarehorizontalshading[frametitle.bg,frametitle right.bg]{beamer@frametitleshade}{\paperheight}{%
+%  color(0pt)=(frametitle.bg);
+%  color(\paperwidth)=(frametitle right.bg)}
+%
+%\defbeamertemplate*{frametitle}{ru theme}{%
+%  \nointerlineskip%
+%  %\vskip-2pt%
+%  \hbox{\leavevmode
+%    \advance\beamer@leftmargin by -12bp%
+%    \advance\beamer@rightmargin by -12bp%
+%    \beamer@tempdim=\textwidth%
+%    \advance\beamer@tempdim by \beamer@leftmargin%
+%    \advance\beamer@tempdim by \beamer@rightmargin%
+%    \hskip-\Gm@lmargin\hbox{%
+%      \setbox\beamer@tempbox=\hbox{\begin{minipage}[b]{\paperwidth}%
+%          \vbox{}\vskip-.75ex%
+%          \leftskip0.3cm%
+%          \rightskip0.3cm plus1fil\leavevmode
+%          \usebeamerfont*{frametitle}\insertframetitle%
+%          \ifx\insertframesubtitle\@empty%
+%            \strut\par%
+%          \else
+%            \par{\usebeamerfont*{framesubtitle}{\usebeamercolor[fg]{framesubtitle}\insertframesubtitle}\strut\par}%
+%          \fi%
+%          \nointerlineskip
+%          \vbox{}%
+%          \end{minipage}}%
+%      \beamer@tempdim=\ht\beamer@tempbox%
+%      \advance\beamer@tempdim by 2pt%
+%      \begin{pgfpicture}{0.1mm}{0pt}{1.01\paperwidth}{\beamer@tempdim}
+%        \usebeamercolor{frametitle right}
+%        \pgfpathrectangle{\pgfpointorigin}{\pgfpoint{\paperwidth}{\beamer@tempdim}}
+%        \pgfusepath{clip}
+%        \pgftext[left,base]{\pgfuseshading{beamer@frametitleshade}}
+%      \end{pgfpicture}
+%      \hskip-\paperwidth%
+%      \box\beamer@tempbox%
+%    }%
+%    \hskip-\Gm@rmargin%
+%  }%
+%%  \nointerlineskip
+%%    \vskip-0.2pt
+%%    \hbox to\textwidth{\hskip-\Gm@lmargin\pgfuseshading{beamer@topshade}\hskip-\Gm@rmargin}
+%%    \vskip-2pt
+%}

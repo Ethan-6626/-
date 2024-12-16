@@ -1,0 +1,87 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <text x="111.938" y="57.9818" t="$1$" tex="$1$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="94.9747" y="69.999" d="1.39603"/>
+%  <text x="92.2425" y="69.3328" t="$3$" tex="$3$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="109.989" y="60.0466" d="1.39603"/>
+%  <line x1="74.5807" y1="87.1827" x2="74.5807" y2="87.1827" arr2="h43" lw="0.75"/>
+%  <text x="127.446" y="69.3202" t="$5$" tex="$5$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="109.998" y="90.0016" d="1.39603"/>
+%  <text x="112.535" y="89.2556" t="$8$" tex="$8$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="124.936" y="69.9911" d="1.39603"/>
+%  <line x1="110.587" y1="60.4224" x2="110.587" y2="60.4224"/>
+%  <circle x="85.009" y="69.9689" d="1.39601"/>
+%  <text x="82.5046" y="69.2654" t="$7$" tex="$7$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <text x="137.737" y="69.3033" t="$11$" tex="$11$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="135.028" y="69.9742" d="1.39603"/>
+%  <circle x="109.998" y="70.0462" d="1.39603"/>
+%  <text x="112.694" y="68.6842" t="$2$" tex="$2$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="94.9298" y="79.9604" d="1.39603"/>
+%  <text x="92.5379" y="79.2144" t="$6$" tex="$6$" h="2.5" halign="c" rotdeg="8.14222E-14" lw="2.00"/>
+%  <circle x="109.947" y="80.077" d="1.39603"/>
+%  <text x="112.588" y="79.1909" t="$4$" tex="$4$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="124.967" y="80.023" d="1.39603"/>
+%  <text x="128.138" y="79.2166" t="$10$" tex="$10$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="109.998" y="100.06" d="1.39603"/>
+%  <text x="113.2" y="99.2443" t="$24$" tex="$24$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <circle x="94.9658" y="90.0016" d="1.39603"/>
+%  <text x="91.928" y="89.1506" t="$12$" tex="$12$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <line x1="109.986" y1="60.8128" x2="109.986" y2="69.2674" lw="0.75"/>
+%  <line x1="109.986" y1="70.8152" x2="109.986" y2="79.2699" lw="0.75"/>
+%  <line x1="109.986" y1="80.8066" x2="109.986" y2="89.2612" lw="0.75"/>
+%  <line x1="109.986" y1="90.7979" x2="109.986" y2="99.2526" lw="0.75"/>
+%  <line x1="109.436" y1="60.4348" x2="95.5829" y2="69.5829" lw="0.75"/>
+%  <line x1="109.409" y1="70.3058" x2="95.5559" y2="79.454" lw="0.75"/>
+%  <line x1="109.409" y1="80.3206" x2="95.5559" y2="89.4687" lw="0.75"/>
+%  <line x1="109.409" y1="70.3058" x2="95.5559" y2="79.454" lw="0.75"/>
+%  <line x1="94.9771" y1="70.8276" x2="94.9771" y2="79.2822" lw="0.75"/>
+%  <line x1="94.9771" y1="80.6974" x2="94.9771" y2="89.152" lw="0.75"/>
+%  <line x1="125.018" y1="70.8152" x2="125.018" y2="79.2699" lw="0.75"/>
+%  <line x1="110.73" y1="70.4182" x2="124.583" y2="79.5663" lw="0.75"/>
+%  <line x1="110.73" y1="60.3938" x2="124.583" y2="69.5419" lw="0.75"/>
+%  <line x1="95.5587" y1="90.3934" x2="109.411" y2="99.5415" lw="0.75"/>
+%  <line x1="109.31" y1="60.024" x2="85.7475" y2="69.8301" lw="0.75"/>
+%  <line x1="110.705" y1="60.024" x2="134.33" y2="69.7746" lw="0.75"/>
+%  <circle x="85.0509" y="80.076" d="1.39601"/>
+%  <text x="82.5465" y="79.3725" t="$9$" tex="$9$" h="2.5" halign="c" rotdeg="8.14222E-14"/>
+%  <line x1="94.4235" y1="70.4565" x2="85.325" y2="79.5671" lw="0.75"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(197.45, 135.39)(0,0)
+  \put(0,0){\includegraphics{hassedivide.pdf}}
+  \put(111.56,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$1$}}}}
+  \put(55.73,39.38){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$3$}}}}
+  \put(155.52,39.34){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$5$}}}}
+  \put(113.26,95.85){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$8$}}}}
+  \put(28.13,39.19){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$7$}}}}
+  \put(184.70,39.29){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$11$}}}}
+  \put(113.71,37.54){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$2$}}}}
+  \put(56.57,67.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$6$}}}}
+  \put(113.41,67.32){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$4$}}}}
+  \put(157.49,67.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$10$}}}}
+  \put(115.14,124.16){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$24$}}}}
+  \put(54.84,95.55){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$12$}}}}
+  \put(28.25,67.83){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$9$}}}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(197.45, 135.39)(0,0)
+  \put(0,0){\includegraphics{hassedivide}}
+  \put(111.56,7.20){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$1$}}}}
+  \put(55.73,39.38){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$3$}}}}
+  \put(155.52,39.34){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$5$}}}}
+  \put(113.26,95.85){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$8$}}}}
+  \put(28.13,39.19){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$7$}}}}
+  \put(184.70,39.29){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$11$}}}}
+  \put(113.71,37.54){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$2$}}}}
+  \put(56.57,67.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$6$}}}}
+  \put(113.41,67.32){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$4$}}}}
+  \put(157.49,67.39){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$10$}}}}
+  \put(115.14,124.16){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$24$}}}}
+  \put(54.84,95.55){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$12$}}}}
+  \put(28.25,67.83){\rotatebox{0.00}{\fontsize{7.11}{8.54}\selectfont \smash{\makebox[0pt]{$9$}}}}
+  \end{picture}%
+\fi
+\end{figure}
